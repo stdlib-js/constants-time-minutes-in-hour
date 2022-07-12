@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-time-minutes-in-hour",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Number of minutes in an hour.",
   "license": "Apache-2.0",
   "author": {
