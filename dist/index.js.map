@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../tmp/index.js"],
+  "sourcesContent": ["/** @license Apache-2.0 */\n'use strict';\nvar MINUTES_IN_HOUR = 60|0;\nmodule.exports = MINUTES_IN_HOUR;\n"],
+  "mappings": "aAEA,IAAIA,EAAkB,GACtB,OAAO,QAAUA",
+  "names": ["MINUTES_IN_HOUR"]
+}
