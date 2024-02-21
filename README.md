@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import MINUTES_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-minutes-in-hour@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-time-minutes-in-hour/tags). For example,
+
+```javascript
 import MINUTES_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-minutes-in-hour@v0.3.1-deno/mod.js';
 ```
 
@@ -77,7 +82,7 @@ var bool = ( MINUTES_IN_HOUR === 60 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@deno/mod.js';
-import MINUTES_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-minutes-in-hour@v0.3.1-deno/mod.js';
+import MINUTES_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-minutes-in-hour@deno/mod.js';
 
 var h;
 var m;
